@@ -1,1 +1,2 @@
 # JavaScript-fundamentel
+# Javascript note

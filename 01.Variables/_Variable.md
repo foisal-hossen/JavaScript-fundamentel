@@ -1,4 +1,4 @@
-# multiple of type of variable name declaration 
+### multiple of type of variable name declaration 
 ```js
 var name = ' malikhossen' //normal case: not recommanded
 var user_home_address =' chittagong'; //snake case

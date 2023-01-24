@@ -11,7 +11,7 @@ num = 56;
 var name_1 ='fahim';
 name_1 = 'hossen';
 
-console.log(name_1);
+console.log(name_1); // ans: hossen
  
 //
 

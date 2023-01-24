@@ -6,7 +6,7 @@ var userHomeAddress ='chittagong'; //camel case: most usege
 var UserHomeAddress = 'Cittagong'; //pascal case
 ```
 
-> # variable as a var
+> # [variable as a var](https://github.com/foisal-hossen/JavaScript-fundamentel/blob/main/01.Variables/1.var.js)
 ```js
 var age = 11 ;  //numaric
 var name = "foisal hossen";  //string

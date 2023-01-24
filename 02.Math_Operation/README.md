@@ -1,4 +1,9 @@
-### math oparation
-`
-+, -, *, /
-`
+> ## math operation
+> ### + , - , * , /
+
+> ## Short hand
+> ### += , -= , *= , /= 
+
+> ## encriment && dicriment
+> ### ++ , --
+

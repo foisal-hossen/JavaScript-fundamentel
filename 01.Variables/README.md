@@ -1,4 +1,4 @@
-# multiple of type of variable name declaration 
+### multiple of type of variable name declaration 
 ```js
 var name = ' malikhossen' //normal case: not recommanded
 var user_home_address =' chittagong'; //snake case
@@ -6,7 +6,7 @@ var userHomeAddress ='chittagong'; //camel case: most usege
 var UserHomeAddress = 'Cittagong'; //pascal case
 ```
 
-> # variable as a var
+> # [variable as a var](https://github.com/foisal-hossen/JavaScript-fundamentel/blob/main/01.Variables/1.var.js)
 ```js
 var age = 11 ;  //numaric
 var name = "foisal hossen";  //string

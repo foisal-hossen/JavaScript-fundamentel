@@ -22,7 +22,7 @@ var name_1 ='fahim';
  name_1 = 'hossen';
  
 ```
-### var similer variable name can declaration.
+### var similer variable name can declaration.(var এর ক্ষেত্রে  এক নামে অনেকবার ভেরিএবল নেওয়া যাই )
 ```js
 var num_01 = 56;
 var num_01=18; 

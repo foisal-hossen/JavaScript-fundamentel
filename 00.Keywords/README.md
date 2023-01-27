@@ -1,4 +1,11 @@
-- toFixed = দশমিকের পর কত ঘর বসবে তা fixed করা
-- parseFloat
-- parseInt
-- typeof
+
+| keyword | Description | 
+| :---: |  :---: |
+| toFixed|  দশমিকের পর কত ঘর বসবে তা fixed করা |
+| parseFloat |  |
+| parseInt|  |
+| typeof|  |
+|new |  |
+| |  |
+| |	 |
+| yeild|  |

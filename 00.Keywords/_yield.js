@@ -1,6 +1,7 @@
 function* hello( a ) {
   while (a < 4) {
-  yield a++;
+    yield a+4;
+    yield a - 10;
    }
   }
   const num = hello ( 1 );

@@ -9,9 +9,9 @@
 |new |`new` keyword in JavaScript is used to create an instance of an object that has a constructor function.  |
 |default | যখন ফাংশন define করতে গিয়ে কোনো মান পাস করা হয় না, তখন ফাংশনে define এর জন্য একটি ডিফল্ট মান সেট করা হয়, যা ডিফল্ট প্যারামিটার নামে পরিচিত। |
 |function* |	 |
-| |  |
-| |  |
-| |  |
+|push|  |
+|pop |  |
+|indexof |  |
 | |  |
 | |  |
 | |  |

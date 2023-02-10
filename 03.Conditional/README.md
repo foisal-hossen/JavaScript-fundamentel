@@ -9,3 +9,25 @@
 | < | 	less than |
 | > = | greater than or equal to |
 | < = | 	less than or equal to |
+| && | and oparetor |
+| || | or oparator  |
+
+## if statement
+```js
+if(){
+
+}else{ }
+```
+### multi stage condition
+```js
+if(){
+
+}
+else if(){
+
+}
+else if(){
+
+}
+else{ }
+```

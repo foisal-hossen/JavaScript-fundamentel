@@ -12,7 +12,7 @@
 |push|  |
 |pop |  |
 |indexof |  |
-| |  |
+|.length |  |
 | |  |
 | |  |
 | |  |

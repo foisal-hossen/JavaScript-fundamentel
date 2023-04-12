@@ -48,6 +48,6 @@ Or ||
 | False  | False  | False|
 | True  | False | True|
 
-Not !
+Not ! <br>
 ! True = False
 ! False = True

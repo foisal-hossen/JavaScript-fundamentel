@@ -1,4 +1,4 @@
-const day = 0;
+const day = 45;
 
 switch (day) {
   case 0 :
@@ -22,4 +22,6 @@ switch (day) {
   case 6 :
     console.log('friday');
     break;
+  // default:
+  //   throw new Error(' no data found');
 }
